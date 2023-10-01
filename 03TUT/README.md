@@ -1,3 +1,5 @@
+# Day 3 02/10/2023
+
 ## Chapter 3 (NPM Modules) :raised_hands:
 
 0 . Node Packet Manager (npm). These are modules that are created by 3rd Parties (developers).
