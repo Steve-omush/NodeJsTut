@@ -1,4 +1,4 @@
-# Day 2
+# Day 1
 
 ## File Operations
 
@@ -20,3 +20,17 @@
 * . I'm still trying to understand Callbacks and Async/Await function :grin:
 
 * . Day 1 closses at 29/09/2023 :hearts:
+
+
+# Day 2 01/10/2023  :sunny:
+
+## Continuation on Chapter 2 (Read and Write Files Function)
+
+0 . Today I learnt how to include the multiple Read/Write File Operations using one async function.
+
+1 . Learnt about directory manipulations using the fs module (create and delete directories).
+
+2 . Learnt about Stream module in node .
+
+
+
