@@ -1,0 +1,8 @@
+20231018	13:35:18 	74ae5f25-5f3d-4daa-b19a-23c3d75b4f42	/new-page	GET
+20231018	13:35:18 	8e0d85ca-a334-4b59-b063-6287e9abc64a	/css/styles.css	GET
+20231018	13:35:18 	aba18fc8-d107-4b66-91af-53cfc3ae2166	/img/bear.jpg	GET
+20231018	13:35:19 	a78764cb-5f4b-4f0a-99b4-612e8c56537e	/favicon.ico	GET
+20231018	13:37:09 	0b7763ef-87b4-4032-a696-d348e3859dad	/new-page	GET
+20231018	13:37:52 	8a236280-dcab-4498-9302-67ac31dcb86a	/new-page	GET
+20231018	13:37:52 	7ca3d59e-ab23-45b3-8be0-6753b6ab552d	/css/styles.css	GET
+20231018	13:37:52 	bc56c92f-ae30-4d68-aa50-52d71ad7d2d6	/img/bear.jpg	GET
