@@ -11,3 +11,5 @@
 3 . Also check the filepath of the file using the 'contentType' and 'req.url'.
 
 4 . Log file to log the errors encountered
+
+5 . Didn't understand much: tired :sleepy: :broken_heart:
